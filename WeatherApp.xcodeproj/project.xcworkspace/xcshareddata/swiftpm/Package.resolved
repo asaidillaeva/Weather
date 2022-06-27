@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "kings-code",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/asaidillaeva/kings-code.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c3d96dbc0e3fab88432f3f7ccf40f30b907aed88"
+      }
+    }
+  ],
+  "version" : 2
+}
